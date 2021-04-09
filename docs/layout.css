@@ -6,3 +6,15 @@ h1 {
   background-color: #ff0000;
 }
 
+th {
+  text-align: bottom;
+  vertical-align: bottom;
+}
+
+table {
+  width: 15%;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
