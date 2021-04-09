@@ -1,20 +1,19 @@
 body {
-  background-color: #ff0000;
+  background-color: #edea39;
 }
 
 h1 {
   background-color: #ff0000;
 }
 
-th {
+th, td {
+  
   text-align: bottom;
   vertical-align: bottom;
 }
 
 table {
-  width: 15%;
+  width: 10%;
 }
 
-th, td {
-  border-bottom: 1px solid #ddd;
-}
+
