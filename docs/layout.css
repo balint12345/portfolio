@@ -8,6 +8,9 @@ th{
 
 table {
   width: 10%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
 
 
