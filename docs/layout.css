@@ -2,15 +2,27 @@ body {
   background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg");
 }
 
-th{
+
+table{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 13%;
+}
+
+
+ /*Link*/
+
+a:link, a:visited {
+  width: 100%;
   background-color: #edea39;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
-table {
-  width: 10%;
-  position: fixed;
-  bottom: 0;
-  right: 0;
+a:hover, a:active {
+  background-color: #f5f184;
+  color: #57564a;
 }
-
-
