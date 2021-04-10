@@ -3,6 +3,10 @@ body {
 }
 
 
+th{
+  background-color: #edea39;
+}
+
 table {
   width: 10%;
 }
