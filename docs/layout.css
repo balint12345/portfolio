@@ -1,12 +1,12 @@
 body, html {
-  height: 99%;
+  height: 100%;
 }
 
 
 body{
   background-image: url("https://images.pexels.com/photos/2391/dirty-industry-stack-factory.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% 101%;
 }
 
 
