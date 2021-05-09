@@ -10,6 +10,18 @@ body{
 }
 
 
+body, html {
+  height: 100%;
+}
+
+
+body{
+  background-image: url("https://raw.githubusercontent.com/balint12345/portfolio/main/docs/pexels-life-of-pix-2391.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 101%;
+}
+
+
 table{
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -46,4 +58,36 @@ div.menu{
      left: 80%;
 	 top: 15%;
 	 width: 13%;
+}
+
+div.bemutatkozas{
+	width:40%;
+	position: absolute;
+	top: 16%;
+	left: 30%;
+	font-family: Rockwell;
+	background-color: #98E86D;
+	text-align: justify;
+    text-justify: inter-word;
+	border: 2px solid #6CB985;
+	border-radius: 25px;
+}
+
+div.profilkep{
+	position: absolute;
+	top: 16%;
+	left: 11%;	
+}
+
+img{
+	 width:20%;
+	 position: relative;
+	 top:18%;
+	 left: 0%;
+}
+
+div.szoveg{
+	position:relative;
+	left:2%;
+	width:96%;
 }
